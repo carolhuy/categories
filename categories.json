@@ -1,0 +1,409 @@
+{
+    "count": 3,
+    "created_at": "",
+    "last_updated_at": "",
+    "navigation_list": [
+      {
+        "type": "category",
+        "name": "Text to Image",
+        "id": "text_to_image",
+        "URL": "/aitools/text_to_image",
+        "image_url": ""
+      },
+      {
+        "type": "category",
+        "name": "Text to Video",
+        "id": "text_to_video",
+        "URL": "aitools/text_to_video",
+        "image_url": ""
+      },
+      {
+        "type": "category",
+        "name": "Text to music",
+        "id": "text_to_music",
+        "URL": "aitools/text_to_music",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "Web3",
+        "id": "web3",
+        "URL": "/aitools/web3",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "Text to Speech",
+        "id": "text_to_speech",
+        "URL": "/aitools/text_to_speech",
+        "image_url": ""
+      },
+  
+  {
+        "type": "category",
+        "name": "AI Document Extraction",
+        "id": "ai_document_extraction",
+        "URL": "/aitools/ai_document_extraction",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Content Generator",
+        "id": "ai_content_generator",
+        "URL": "/aitools/ai_content_generator",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Manga & Comic",
+        "id": "ai_manga_comic",
+        "URL": "/aitools/ai_manga_comic",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Anime & Cartoon Generator",
+        "id": "ai_anime_cartoon_generator",
+        "URL": "/aitools/ai_anime_cartoon_generator",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Art Generator",
+        "id": "ai_art_generator",
+        "URL": "/aitools/ai_art_generator",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Anime Art",
+        "id": "ai_anime_art",
+        "URL": "/aitools/ai_anime_art",
+        "image_url": ""
+      },
+  
+  {
+        "type": "category",
+        "name": "AI Developer Tools",
+        "id": "ai_developer_tools",
+        "URL": "/aitools/ai_developer_tools",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "Large Language Models (LLMs)",
+        "id": "large_language_models_(llms)",
+        "URL": "/aitools/large_language_models_(llms)",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Tools Directory",
+        "id": "ai_tools_directory",
+        "URL": "/aitools/ai_tools_directory",
+        "image_url": ""
+      },
+  
+  {
+        "type": "category",
+        "name": "AI Product Description Generator",
+        "id": "ai_product_description_generator",
+        "URL": "/aitools/ai_product_description_generator",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Image Enhancer",
+        "id": "ai_image_enhancer",
+        "URL": "/aitools/ai_image_enhancer",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Photo Enhancer",
+        "id": "ai_photo_enhancer",
+        "URL": "/aitools/ai_photo_enhancer",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Video Enhancer",
+        "id": "ai_video_enhancer",
+        "URL": "/aitools/ai_video_enhancer",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Audio Enhancer",
+        "id": "ai_audio_enhancer",
+        "URL": "/aitools/ai_audio_enhancer",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Advertising Assistant",
+        "id": "ai_advertising_assistant",
+        "URL": "/aitools/ai_advertising_assistant",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Art Generator",
+        "id": "ai_art_generator",
+        "URL": "/aitools/ai_art_generator",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Analytics Assistant",
+        "id": "ai_analytics_assistant",
+        "URL": "/aitools/ai_analytics_assistant",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Reply Assistant",
+        "id": "ai_reply_assistant",
+        "URL": "/aitools/ai_reply_assistant",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Email Assistant",
+        "id": "ai_email_assistant",
+        "URL": "/aitools/ai_email_assistant",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Response Generator",
+        "id": "ai_response_generator",
+        "URL": "/aitools/ai_response_generator",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Chatbot",
+        "id": "ai_chatbot",
+        "URL": "/aitools/ai_chatbot",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "Newsletter",
+        "id": "newsletter",
+        "URL": "/aitools/newsletter",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Image Recognition",
+        "id": "ai_image_recognition",
+        "URL": "/aitools/ai_image_recognition",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI App Builder",
+        "id": "ai_app_builder",
+        "URL": "/aitools/ai_app_builder",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Detector",
+        "id": "ai_detector",
+        "URL": "/aitools/ai_detector",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "Speech To Text",
+        "id": "speech_to_text",
+        "URL": "/aitools/speech_to_text",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Voice Changer",
+        "id": "ai_voice_changer",
+        "URL": "/aitools/ai_voice_changer",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Speech Recognition",
+        "id": "ai_speech_recognition",
+        "URL": "/aitools/ai_speech_recogniton",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Speech Synthesis",
+        "id": "ai_speech_synthesis",
+        "URL": "/aitools/ai_speech_synthesis",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Voice Assistants",
+        "id": "ai_voice_assistants",
+        "URL": "/aitools/ai_voice_assistants",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "Translate",
+        "id": "translate",
+        "URL": "/aitools/translate",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Photo & Image Generator",
+        "id": "ai_photo_image_generator",
+        "URL": "/aitools/ai_photo_image_generator",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Avatar Generator",
+        "id": "ai_avatar_generator",
+        "URL": "/aitools/ai_avatar_generator",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Profile Picture Generator",
+        "id": "ai_profile_picture_generator",
+        "URL": "/aitools/ai_profile_picture_generator",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Selfie & Portrait",
+        "id": "ai_selfie_portrait",
+        "URL": "/aitools/ai_selfie_portrait",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "Image to Image",
+        "id": "image_to_image",
+        "URL": "/aitools/image_to_image",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Image Recognition",
+        "id": "ai_image_recognition",
+        "URL": "/aitools/ai_image_recognition",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Face Swap Generator",
+        "id": "ai_face_swap_generator",
+        "URL": "/aitools/ai_face_swap_generator",
+        "image_url": ""
+      },
+  
+  {
+        "type": "category",
+        "name": "Photo & Image Editor",
+        "id": "photo_image_editor",
+        "URL": "/aitools/photo_image_editor",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "Copywriting",
+        "id": "copywriting",
+        "URL": "/aitools/copywriting",
+        "image_url": ""
+      },
+  
+  {
+        "type": "category",
+        "name": "Translate",
+        "id": "translate",
+        "URL": "/aitools/translate",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Design Generator",
+        "id": "ai_design_generator",
+        "URL": "/aitools/ai_design_generator",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Graphic Design",
+        "id": "ai_graphic_design",
+        "URL": "/aitools/ai_graphic_design",
+        "image_url": ""
+      },
+  
+  {
+        "type": "category",
+        "name": "Sales Assistant",
+        "id": "sales_assistant",
+        "URL": "/aitools/sales_assistant",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "Prompt",
+        "id": "prompt_1",
+        "URL": "/aitools/prompt_1",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Illustration Generator",
+        "id": "ai_illustration_generator",
+        "URL": "/aitools/ai_illustration_generator",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Story Writing",
+        "id": "ai_story_writing",
+        "URL": "/aitools/ai_story_writing",
+        "image_url": ""
+      },
+  {
+        "type": "category",
+        "name": "AI Book Writing",
+        "id": "ai_book_writing",
+        "URL": "/aitools/ai_book_writing",
+        "image_url": ""
+      },
+  
+  
+  {
+        "type": "category",
+        "name": "Other",
+        "id": "other",
+        "URL": "/aitools/other",
+        "image_url": ""
+      },
+  
+  
+      {
+        "type": "tag",
+        "name": "OpenAI",
+        "id": "text_to_music",
+        "URL": "/tag/openai",
+        "image_url": ""
+      },
+      {
+        "type": "brand",
+        "name": "Nvidia",
+        "id": "text_to_music",
+        "URL": "/brand/nvidia",
+        "image_url": ""
+      }
+    ]
+  }
