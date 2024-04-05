@@ -380,8 +380,20 @@
         "URL": "/aitools/ai_book_writing",
         "image_url": ""
       },
-  
-  
+    {
+    "type": "tag",
+    "name": "OpenAI",
+    "id": "text_to_music",
+    "URL": "/tag/openai",
+    "image_url": ""
+  },
+  {
+    "type": "brand",
+    "name": "Nvidia",
+    "id": "text_to_music",
+    "URL": "/brand/nvidia",
+    "image_url": ""
+  },
   {
         "type": "category",
         "name": "Other",
@@ -389,21 +401,5 @@
         "URL": "/aitools/other",
         "image_url": ""
       },
-  
-  
-      {
-        "type": "tag",
-        "name": "OpenAI",
-        "id": "text_to_music",
-        "URL": "/tag/openai",
-        "image_url": ""
-      },
-      {
-        "type": "brand",
-        "name": "Nvidia",
-        "id": "text_to_music",
-        "URL": "/brand/nvidia",
-        "image_url": ""
-      }
     ]
   }
